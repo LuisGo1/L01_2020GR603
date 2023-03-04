@@ -5,7 +5,7 @@ namespace L01_2020GR603.models
     public class comentarios
     {
         [Key]
-        public int comentarioId { get; set; }
+        public int cometarioId { get; set; }
 
         public int publicacionId { get; set; }
 
